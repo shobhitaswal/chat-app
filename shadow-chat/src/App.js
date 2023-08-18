@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Chat } from "./components/Chat";
+import Chat from "./components/Chat";
 import { Auth } from "./components/Auth.js";
 import { AppWrapper } from "./components/AppWrapper";
 import Cookies from "universal-cookie";
